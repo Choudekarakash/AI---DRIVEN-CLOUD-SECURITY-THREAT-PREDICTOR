@@ -1,0 +1,6 @@
+hybrid-ai-brain/
+├── main.py               # Your Python API code
+├── requirements.txt      # The list of libraries we generated
+├── Dockerfile            # The "recipe" for the cloud image
+├── classical_model.pkl   # Your pre-trained Scikit-Learn model
+└── sequential_model.h5   # Your pre-trained Keras/LSTM model
